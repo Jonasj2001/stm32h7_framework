@@ -1,0 +1,6 @@
+[submodule "lib/libopencm3"]
+	path = lib/libopencm3
+	url = git@github.com:libopencm3/libopencm3.git
+[submodule "lib/libcsp"]
+	path = lib/libcsp
+	url = git@github.com:aausat/libcsp.git
