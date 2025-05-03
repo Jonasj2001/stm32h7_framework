@@ -1,0 +1,12 @@
+﻿BasedOnStyle: LLVM
+AllowShortFunctionsOnASingleLine: InlineOnly
+AllowShortIfStatementsOnASingleLine: WithoutElse
+AllowShortLambdasOnASingleLine: Inline
+AllowShortLoopsOnASingleLine: true
+BreakBeforeBraces: Attach
+FixNamespaceComments: true
+IndentCaseLabels: true
+IndentWidth: 4
+TabWidth: 4
+UseTab: ForContinuationAndIndentation
+ColumnLimit: 120
